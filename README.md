@@ -1,5 +1,4 @@
 # finance_news_sentiment-summarization
-using finbert&amp;KoT5_news_summarization
 ![1](https://user-images.githubusercontent.com/78486291/228139574-1d3ca4ed-058e-47b1-83de-dbf9fc9997c1.png)
 ![2](https://user-images.githubusercontent.com/78486291/228139673-fa6047d8-5769-48ef-a1bf-8f38fbc334d8.png)
 ![3](https://user-images.githubusercontent.com/78486291/228139690-8e40b621-3f41-4bb3-8372-b6db54f110a6.png)
