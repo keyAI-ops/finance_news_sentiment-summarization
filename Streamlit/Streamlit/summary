@@ -1,0 +1,8 @@
+import torch
+from transformers import GPT2LMHeadModel, PreTrainedTokenizerFast
+from transformers import AutoTokenizer
+from transformers import AutoModelForSeq2SeqLM
+import pandas as pd
+
+tokenizer = AutoTokenizer.from_pretrained("noahkim/KoT5_news_summarization")
+model = AutoModelForSeq2SeqLM.from_pretrained("noahkim/KoT5_news_summarization")
